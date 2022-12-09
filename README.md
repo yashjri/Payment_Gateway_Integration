@@ -1,4 +1,4 @@
-#Yash Singh DonationSite.
+Yash Singh DonationSite.
 Sparks Foundation Internship Project : Payment_Gateway_Integration.
 A Web Application used for donation.
 
