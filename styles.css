@@ -1,0 +1,112 @@
+/* Main part */
+#title{
+  background-color: #ffffff;
+}
+h5{
+color: grey;
+}
+.navbar-brand{
+  color: green;
+  font-weight: bolder;
+  font-size: 1.75rem;
+  font-family: 'Montserrat', sans-serif;
+}
+.navbar-brand:hover{
+  color: #064420;
+}
+.nav-link{
+  color: grey;
+}
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link:hover{
+  color: green;
+}
+.main-cc{
+  padding: 4% 10%;
+}
+.donate-button{
+  padding: 2% 4% 2 4%;
+}
+.fa-rupee-sign{
+  padding-right: 1rem;
+}
+.fa-arrow-right{
+  padding-left: 1rem;
+}
+.main-ccolor{
+  color: green;
+}
+.main-img{
+  margin-top: 3rem;
+}
+
+/* Initiatives page */
+#initiatives {
+  padding: 7% 5%;
+  position: relative;
+  background-color: #6a8b3b;
+  z-index: 1;
+}
+.feature-box {
+  text-align: center;
+  padding: 1% 5%;
+}
+.icon {
+  color: #064420;
+  margin-bottom: 2rem;
+}
+.icon:hover {
+  color: black;
+}
+
+/* Additional page */
+.addp{
+  text-align: center;
+  padding: 6% 15%;
+  background-image: url("Images/tree2.jpg");
+}
+
+/* About Us CSS */
+#aboutUs{
+  padding: 3% 6%;
+  position: relative;
+  background-color: #ffffff;
+}
+.ahead{
+  padding-bottom: 3%;
+}
+.apara{
+  padding-top: 3%;
+  padding-right: 3%;
+  text-align: left;
+}
+.about-us-image{
+  padding-right: 5%;
+}
+.about-font{
+  font-family: 'Montserrat', sans-serif;
+}
+.about-content{
+  font-family: 'Raleway', sans-serif;
+  font-weight: normal;
+}
+
+/* Contact Us */
+#contactUs {
+  background-color: #f2cac8;
+  padding: 1% 15%;
+  text-align: center;
+}
+.social-icons {
+  margin: 20px 10px;
+  padding: 3%;
+  color: #c36b84;
+}
+.social-icons:hover{
+  color: black;
+}
+.contact-text{
+  font-size: 0.8rem;
+}
